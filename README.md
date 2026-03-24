@@ -26,7 +26,7 @@ Contar quantos números **pares** existem em um conjunto de valores armazenados 
 
 ## Resultado
 
-A quantidade de números pares é armazenada no endereço:
+A quantidade de números pares é armazenada no endereço: `0x20`
 
 ## Integrantes - Grupo 01
 
